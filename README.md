@@ -1,18 +1,77 @@
-<h1 align="center">Hi 👋, I'm Oliver</h1>
-<h3 align="center">A talented self-taught programmer from Germany</h3>
+# Hi, ich bin Oliver 👋
 
-<p align="left"> <a href="https://twitter.com/olivergiertz" target="blank"><img src="https://img.shields.io/twitter/follow/olivergiertz?logo=twitter&style=for-the-badge" alt="olivergiertz" /></a> </p>
+🚐 Gründer von **Vanity on Tour**. Seit einem halben Jahrzehnt im Van unterwegs –
+und weil unterwegs immer irgendetwas fehlt, baue ich es meistens selbst.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/olivergiertz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olivergiertz" height="30" width="40" /></a>
-<a href="https://instagram.com/vanity.on.tour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanity.on.tour" height="30" width="40" /></a>
-</p>
+Hier liegt alles, was dabei entsteht: iOS-Apps, kleine Web-Tools, Landingpages
+und die Infrastruktur, auf der das Ganze läuft.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/vanityontour"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vanityontour" /></a></p><br><br>
+## Was ich baue
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olivergiertz&show_icons=true&locale=en" alt="olivergiertz" /></p>
+| Projekt | Was es ist |
+| --- | --- |
+| **[VanityCast](https://go.vanityontour.de/vanitycast)** | Podcast-App für iPhone und CarPlay. Eigene Audio-Engine mit Lautstärke-Angleichung und Smart Speed, smarte Inbox, Hörstatistiken – ohne Konto, ohne Registrierung. |
+| **[StaySense](https://go.vanityontour.de/staysense)** | Standort-Check fürs Vanlife: Umwelt-Kontext und Umgebungsinfos, direkt im Browser. |
+| **[Vanity Expense Logbook](https://go.vanityontour.de/expense)** | Ausgaben und Fahrten unterwegs im Blick behalten. |
+| **[Vanity on Tour](https://go.vanityontour.de/blog)** | Der Blog: Produkttests, Stellplatz-Tests, Technik – ohne Marketing-Zuckerguss. |
+
+Alle Projekte an einem Ort: **[go.vanityontour.de](https://go.vanityontour.de)**
+
+---
+
+## Womit
+
+**Apps** · Swift (iOS, CarPlay) · Fastlane
+**Web & Tools** · Python · JavaScript · HTML/CSS
+**Automatisierung** · Shell · Forgejo & GitHub Actions
+
+## Selbst gehostet
+
+Das meiste läuft auf eigenen Servern statt bei Dritten – nicht aus Prinzipienreiterei,
+sondern weil ich wissen will, wo die Daten liegen, und Dienste nicht von heute auf
+morgen verschwinden sollen.
+
+Docker · Traefik · PostgreSQL · nginx · **Forgejo** (dieses Git hier) ·
+**Shlink** (die Kurzlinks oben laufen darüber)
+
+---
+
+## Kontakt
+
+- 🌐 [vanityontour.de](https://go.vanityontour.de/blog)
+- 📷 [Instagram](https://go.vanityontour.de/instagram)
+- 🦋 [Bluesky](https://go.vanityontour.de/bluesky)
+- 💻 [GitHub](https://go.vanityontour.de/github)
+- ✉️ kontakt@vanityontour.de
+
+Wenn dir etwas davon hilft: [Ko-fi](https://go.vanityontour.de/support) ☕
+
+---
+
+<details>
+<summary><b>🇬🇧 In English</b></summary>
+
+<br>
+
+I'm Oliver, founder of **Vanity on Tour**. I've been living in a van for the better
+part of a decade – and since something is always missing on the road, I usually end
+up building it myself.
+
+**What I build:** [VanityCast](https://go.vanityontour.de/vanitycast), a podcast app
+for iPhone and CarPlay with its own audio engine and no account required ·
+[StaySense](https://go.vanityontour.de/staysense), a browser-based location check for
+van life · [Vanity Expense Logbook](https://go.vanityontour.de/expense) for tracking
+expenses and trips on the road · and [a blog](https://go.vanityontour.de/blog) about
+all of it.
+
+**Stack:** Swift for iOS, Python and JavaScript for the web, Shell for the glue.
+
+**Self-hosted** wherever it makes sense – Docker, Traefik, PostgreSQL, Forgejo for git
+and Shlink for the short links above. Not out of principle, but because I want to know
+where the data lives and I'd rather not have a service disappear overnight.
+
+Everything in one place: **[go.vanityontour.de](https://go.vanityontour.de)**
+
+</details>
