@@ -25,7 +25,7 @@ Alle Projekte an einem Ort: **[go.vanityontour.de](https://go.vanityontour.de)**
 
 **Apps** · Swift (iOS, CarPlay) · Fastlane
 **Web & Tools** · Python · JavaScript · HTML/CSS
-**Automatisierung** · Shell · Forgejo & GitHub Actions
+**Automatisierung** · Shell · Forgejo Actions
 
 ## Selbst gehostet
 
@@ -33,17 +33,29 @@ Das meiste läuft auf eigenen Servern statt bei Dritten – nicht aus Prinzipien
 sondern weil ich wissen will, wo die Daten liegen, und Dienste nicht von heute auf
 morgen verschwinden sollen.
 
-Docker · Traefik · PostgreSQL · nginx · **Forgejo** (dieses Git hier) ·
+Docker · Traefik · PostgreSQL · nginx · **Forgejo** (mein Git) ·
 **Shlink** (die Kurzlinks oben laufen darüber)
+
+---
+
+## 📍 Wo der Code wirklich liegt
+
+Entwickelt wird auf meiner eigenen Forgejo-Instanz:
+**[git.giertz.biz/oliver](https://go.vanityontour.de/git)**
+
+Was auf GitHub liegt, ist ein automatischer Spiegel davon – praktisch zum Stöbern,
+aber eine Einbahnstraße: **Issues und Pull Requests auf GitHub erreichen mich nicht**
+und gehen beim nächsten Sync verloren. Wenn du etwas melden oder beitragen möchtest,
+mach das bitte direkt auf Forgejo oder schreib mir eine Mail.
 
 ---
 
 ## Kontakt
 
 - 🌐 [vanityontour.de](https://go.vanityontour.de/blog)
+- 🧑‍💻 [git.giertz.biz](https://go.vanityontour.de/git)
 - 📷 [Instagram](https://go.vanityontour.de/instagram)
 - 🦋 [Bluesky](https://go.vanityontour.de/bluesky)
-- 💻 [GitHub](https://go.vanityontour.de/github)
 - ✉️ kontakt@vanityontour.de
 
 Wenn dir etwas davon hilft: [Ko-fi](https://go.vanityontour.de/support) ☕
@@ -71,6 +83,11 @@ all of it.
 **Self-hosted** wherever it makes sense – Docker, Traefik, PostgreSQL, Forgejo for git
 and Shlink for the short links above. Not out of principle, but because I want to know
 where the data lives and I'd rather not have a service disappear overnight.
+
+**Heads up:** development happens on my own Forgejo instance at
+[git.giertz.biz/oliver](https://go.vanityontour.de/git). Anything on GitHub is a
+one-way mirror – issues and pull requests opened there won't reach me and get lost on
+the next sync. Please use Forgejo or email instead.
 
 Everything in one place: **[go.vanityontour.de](https://go.vanityontour.de)**
 
